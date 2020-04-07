@@ -2,7 +2,7 @@ ESP_32-OTA-STM32
 
 "MUST Do It"
 
-#copy to  platform.txt 
+#copy to  platform.txt #
 tools.stm32_ota.cmd=stm32_ota
 tools.stm32_ota.path.macosx={runtime.hardware.path}/tools/macosx
 tools.stm32_ota.path.linux={runtime.hardware.path}/tools/linux
@@ -22,7 +22,9 @@ genericSTM32F103C.menu.upload_method.httpMethod.upload.IPAddress=http://192.168.
 file firmware upload to http :: 192.168.0.66
 
 
-view this repo :: 
+#view this repo :: # 
 
 https://github.com/csnol/STM32-OTA
+
+"THX"
 
